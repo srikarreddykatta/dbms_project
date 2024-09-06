@@ -1,6 +1,6 @@
 For the php code to run efficiently
 
-
+-> Install the xampp application 
 
 -> Create a database with name 'josaa'
 
