@@ -4,7 +4,7 @@ For the php code to run efficiently
 
 -> Create a database with name 'josaa'
 
--> Username : 'Thanish@localhost'
+-> Username : 'Thanish'
 
 -> Password : 'Thanish@123'
 
